@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>getDeliveries</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>POC_ServiceDeliveryHandler</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>heroku_demo_endpoint</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <version>38.0</version>
+</Package>
