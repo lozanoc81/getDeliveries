@@ -12,5 +12,13 @@
         <members>heroku_demo_endpoint</members>
         <name>RemoteSiteSetting</name>
     </types>
+    <types>
+        <members>getDelivery_Dates</members>
+        <name>FlowDefinition</name>
+    </types>
+    <types>
+        <members>getDelivery_Dates</members>
+        <name>Flow</name>
+    </types>
     <version>38.0</version>
 </Package>
