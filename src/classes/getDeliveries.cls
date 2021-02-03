@@ -5,7 +5,7 @@ public class getDeliveries {
             Region = '';
         Http http = new Http();
         HttpRequest request = new HttpRequest();
-        request.setEndpoint('https://desolate-scrubland-88410.herokuapp.com/deliveries/' + Region);
+        request.setEndpoint('https://gepp-dsd-cases.herokuapp.com/operations/deliveries/' + Region);
         request.setMethod('GET');
         HttpResponse response = http.send(request);
         // If the request is successful, parse the JSON response.
